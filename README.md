@@ -20,15 +20,15 @@ Este repositorio contiene **dos trabajos prácticos** del sistema de gestión de
 
 ```
 sistema-reservas-canchas/
-├── TP3/                    # Trabajo Práctico 3 - Sistema en Memoria
-└── TP4/                    # Trabajo Práctico 4 - Sistema con MySQL
+├── sistema-reserva-cancha (TP3)/                    # Trabajo Práctico 3 - Sistema en Memoria
+└── TP4/                                              # Trabajo Práctico 4 - Sistema con MySQL
 ```
 
 ---
 
 ## 📋 Trabajos Prácticos
 
-### 🔵 [TP3 - Sistema en Memoria](./TP3/)
+### 🔵 [sistema-reserva-cancha (TP3) - Sistema en Memoria](./TP3/)
 
 **Descripción:** Sistema de gestión de reservas implementado completamente en memoria usando estructuras de datos Java (ArrayList, HashMap).
 
